@@ -1,2 +1,4 @@
-# moddex
-The sources of the MODDex Minecraft Java mod
+# MODDex                                 
+The sources of the MODDex Minecraft Java mod                                    
+ENJOY!                                  
+# 😊                                   
